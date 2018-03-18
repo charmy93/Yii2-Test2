@@ -563,5 +563,6 @@ class Tables
     const WEBSITE_NEWS                                  = 'website_news';
     const WEBSITE_STATS_RECIPIENT                       = 'website_stats_recipient';
     const TEST_TABLE1                                   = 'test_table1';
+    const TEST_TABLE2                                   = 'test_table2';
 
 }
