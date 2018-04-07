@@ -32,4 +32,8 @@ class Country extends Model
 
         return $query;
     }
+
+    public function getCountry(){
+
+    }
 }
