@@ -564,6 +564,7 @@ class Tables
     const WEBSITE_STATS_RECIPIENT                       = 'website_stats_recipient';
     const TEST_TABLE1                                   = 'test_table1';
     const TEST_TABLE2                                   = 'test_table2';
+    const TEST_TABLE4                                   = 'test_table4';     = 'test_table2';
     const TEST_TABLE3                                   = 'test_table3';
 
 }
